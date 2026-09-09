@@ -25,7 +25,6 @@ I vibecoded Cake with Claude. I supplied the product idea, reminder behaviour, p
 - Kotlin Serialization and Coroutines
 - Local JSON storage
 - Android AlarmManager, notifications and boot receiver
-- Gradle 8.10.2 / Android Gradle Plugin 8.7.3
 
 ## Download the app
 
